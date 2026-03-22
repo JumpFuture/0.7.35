@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SLY Version 0.7.34
+// @name         0.7.35
 // @namespace    http://tampermonkey.net/
 // @version      0.7.35
 // @description  try to take over the world!
